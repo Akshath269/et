@@ -1,0 +1,28 @@
+.header{
+    background-color: #ffbf00;
+
+
+}
+.grid{
+    color:#9e4b4b;
+    display:flex;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+    margin : 25px;
+
+}
+body{
+    margin: 0px;
+color: #3f6188;
+}
+p,h2{
+    text-align: center;
+}
+.item{
+  color:#0011ff  
+padding:30px;
+margin:25px;
+
+
+
+}
